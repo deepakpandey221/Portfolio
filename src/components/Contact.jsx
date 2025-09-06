@@ -62,11 +62,11 @@ export default function Contact() {
         >
           <div className="flex items-center gap-4 bg-gray-800/40 p-6 rounded-2xl backdrop-blur-md border border-gray-700/40 shadow-md hover:shadow-blue-500/20 transition">
             <Mail className="w-7 h-7 text-blue-400" />
-            <span className="text-gray-300">deepak@example.com</span>
+            <span className="text-gray-300">deepakchandrapandey221@gmail.com</span>
           </div>
           <div className="flex items-center gap-4 bg-gray-800/40 p-6 rounded-2xl backdrop-blur-md border border-gray-700/40 shadow-md hover:shadow-green-500/20 transition">
             <Phone className="w-7 h-7 text-green-400" />
-            <span className="text-gray-300">+91 98765 43210</span>
+            <span className="text-gray-300">+91 9627805857</span>
           </div>
           <div className="flex items-center gap-4 bg-gray-800/40 p-6 rounded-2xl backdrop-blur-md border border-gray-700/40 shadow-md hover:shadow-purple-500/20 transition">
             <MapPin className="w-7 h-7 text-purple-400" />
